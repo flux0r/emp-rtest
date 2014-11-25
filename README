@@ -1,0 +1,3 @@
+Source ``run.R''. after it runs, there will be a list called runner with inputs and
+outputs for each of the four exercises. There's no fancy loading going, so your
+console will need the working directory set to the directory with run.R.
